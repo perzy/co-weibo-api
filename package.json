@@ -1,6 +1,6 @@
 {
   "name": "co-weibo-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Weibo api for koa.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/perzy/co-weibo-api#readme",
   "dependencies": {
-    "urllib": "2.11.0"
+    "urllib": "2.4.0"
   }
 }
