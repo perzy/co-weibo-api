@@ -1,0 +1,26 @@
+{
+  "name": "co-weibo-api",
+  "version": "0.0.1",
+  "description": "Weibo api for koa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perzy/co-weibo-api.git"
+  },
+  "keywords": [
+    "Weibo",
+    "api",
+    "koa",
+    "co",
+    "promise"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perzy/co-weibo-api/issues"
+  },
+  "homepage": "https://github.com/perzy/co-weibo-api#readme"
+}
