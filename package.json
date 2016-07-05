@@ -1,6 +1,6 @@
 {
   "name": "co-weibo-api",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Weibo api for koa.",
   "main": "index.js",
   "scripts": {
